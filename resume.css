@@ -1,0 +1,47 @@
+*{
+	box-sizing: border-box!important;
+}
+body{
+	margin: 0 !important;
+	padding: 0 !important;
+	background-color: gray;
+}
+.resume{
+	background-color: white;
+	width: 65%;
+}
+.left{
+	background: #1037A9;
+	color: white;
+}
+.name{
+	padding: 10px 20px;
+}
+.head{
+	background-color: #06153E;
+	padding: 3px 20px;
+}
+.bd{
+	padding: 3px 20px;
+}
+.bd p{
+	padding: 0px;
+}
+.achiv{
+	padding: 30px 20px;
+}
+.objective{
+		padding: 10px 20px 2px 20px;
+		border-bottom: 1px solid gray;
+}
+.exp,.edu,.cer,.pro{
+		padding: 5px 20px 5px 20px;
+		border-bottom: 1px solid gray;
+}
+.objective h3,.exp h3,.edu h3,.cer h3,.pro h3{
+	color: #1037A9;
+}
+.expdetails,.edudetails,.cerdetails,.prodetails{
+	padding: 15px 20px 15px 20px;
+	border-bottom: 1px solid gray;
+}
